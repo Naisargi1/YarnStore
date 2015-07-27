@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<title>
+  
+  <yarn>
+    <symbol>0</symbol>
+    <name>Lace</name>
+    <type>Thread,Cobweb</type>
+    <ply>1-3 ply</ply>
+	<wraps>-</wraps>
+    <knit_gauge>32-40 st</knit_gauge>
+  </yarn>
+  <yarn>
+    <symbol>1</symbol>
+    <name>Super Fine</name>
+    <type>Fingering</type>
+    <ply>4 ply</ply>
+	<wraps>14 wpi</wraps>
+    <knit_gauge>27-32 st</knit_gauge>
+  </yarn>
+  <yarn>
+    <symbol>2</symbol>
+    <name>Fine</name>
+    <type>Sport</type>
+    <ply>5 ply</ply>
+	<wraps>12 wpi</wraps>
+    <knit_gauge>23-26 st</knit_gauge>
+  </yarn>
+  <yarn>
+    <symbol>3</symbol>
+    <name>Light</name>
+    <type>DK</type>
+    <ply>8 ply</ply>
+	<wraps>11 wpi</wraps>
+    <knit_gauge>21-24 st</knit_gauge>
+  </yarn>
+  <yarn>
+    <symbol>4</symbol>
+    <name>Medium</name>
+    <type>Worsted,Aran</type>
+    <ply>10 ply</ply>
+	<wraps>9-8 wpi</wraps>
+    <knit_gauge>16-20 st</knit_gauge>
+  </yarn>
+  <yarn>
+    <symbol>5</symbol>
+    <name>Bulky</name>
+    <type>Bulky</type>
+    <ply>12 ply</ply>
+	<wraps>7 wpi</wraps>
+    <knit_gauge>12-15 st</knit_gauge>
+  </yarn>
+</title>
